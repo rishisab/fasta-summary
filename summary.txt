@@ -1,0 +1,14 @@
+FASTA SUMMARY REPORT
+---------------------
+Total sequences: 45
+Average GC%: 5.96
+Longest Sequence : seq4 (66 bp)
+Shortest Sequence : seq1 (36 bp)
+
+per sequence states: 
+ID	length	gc%
+seq1	36	52.78
+seq2	51	54.9
+seq3	56	55.36
+seq4	66	56.06
+seq5	45	48.89
